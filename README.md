@@ -23,6 +23,12 @@
 ![Blog](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Blog](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+## Contato
+
+ E-mail: renangarciafc222@gmail.com
+ 
+ Telefone: (41) 99679-0384
+
 
 
 
