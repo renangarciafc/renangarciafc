@@ -1,14 +1,14 @@
 ### Seja bem vindo!! Eu sou o Renan Garcia 👋
 
-![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=dracula)](https://www.instagram.com/renan_garcia.l/)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renangarciafc&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renangarciafc&hide_progress=true)](https://github.com/renangarciafc/github-readme-stats)
 
 <div style="display: inline-block; text-align: center;">
-  Desenvolvedor criativo, sempre busco desenvolver de formas diferentes e estudar ferramentas novas, amo um desafio além de me dar muito bem trabalhando em equipe, caso queira compartilhar uma ideia nova ou um projeto basta entrar em contato comigo, será um prazer fazer parte deste mundo de ideias!!!
+  Olá, meu nome é Renan Garcia e sou um desenvolvedor web apaixonado por criar soluções inovadoras e funcionais. Como pessoa, sou extrovertido e gosto de trabalhar em equipe, sempre buscando uma comunicação clara e efetiva para alcançarmos nossos objetivos.
+
+Em relação às ferramentas que domino, tenho experiência em Python, Typescript, Javascript, Angular, React, Django, MySQL, Postgres, GraphQL, Docker, entre outras. Recentemente, participei da criação de um projeto Angular do zero, além de estar envolvido em outros 3 projetos em Angular e React. Também faço manutenção em uma API em Python (Django) no meu atual emprego.
+
+Meu foco é sempre buscar novos desafios e aprender com eles, além de estar sempre atualizado com as tecnologias mais recentes. Estou animado para contribuir em projetos desafiadores e trabalhar em equipe para alcançarmos os objetivos propostos.
 </div>
 
 ## Tecnologias que uso no meu dia a dia
