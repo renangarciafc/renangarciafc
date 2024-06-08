@@ -6,7 +6,7 @@
 <div style="display: inline-block; text-align: center;">
   Olá, meu nome é Renan Garcia e sou um desenvolvedor web apaixonado por criar soluções inovadoras e funcionais. Como pessoa, sou extrovertido e gosto de trabalhar em equipe, sempre buscando uma comunicação clara e efetiva para alcançarmos nossos objetivos.
 
-Em relação às ferramentas que domino, tenho experiência em Python, Typescript, Javascript, Angular, React, Django, MySQL, Postgres, GraphQL, Docker, entre outras. Recentemente, participei da criação de um projeto Angular do zero, além de estar envolvido em outros 3 projetos em Angular e React. Também faço manutenção em uma API em Python (Django) no meu atual emprego.
+Em relação às ferramentas que domino, tenho experiência em Python, Typescript, Javascript, Angular, React, Django, MySQL, Postgres, GraphQL, Docker, entre outras. Tenho trabalhado extensivamente em diversas aplicações frontend, com foco em Angular. Além disso, sou apaixonado por Inteligência Artificial, dedicando-me ao estudo aprofundado deste campo. Recentemente, iniciei minha pós-graduação em Inteligência Artificial Aplicada.
 
 Meu foco é sempre buscar novos desafios e aprender com eles, além de estar sempre atualizado com as tecnologias mais recentes. Estou animado para contribuir em projetos desafiadores e trabalhar em equipe para alcançarmos os objetivos propostos.
 </div>
@@ -27,7 +27,7 @@ Meu foco é sempre buscar novos desafios e aprender com eles, além de estar sem
 
  E-mail: renangarciafc222@gmail.com
  
- Telefone: (41) 99679-0384
+ Telefone: (41) 997608403
 
 
 
